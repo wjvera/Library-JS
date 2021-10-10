@@ -27,7 +27,6 @@
 | Apache MXNetjs | https://cwiki.apache.org/confluence/display/MXNET/Documentation+Guide |
 | Synapses | https://x.synapse.to/docs/reference/syn_lib.html |
 | Compromise | https://openbase.com/js/compromise/documentation |
-
 |Saturday| Java |
 | Apache Commons | http://commons.apache.org/proper/commons-lang/ |
 | Guava | https://github.com/google/guava/wiki |
