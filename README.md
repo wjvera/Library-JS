@@ -2,6 +2,7 @@
 
 | Librarys | Documentation 
 |-----------|:-----------:|  
+| Saturday | animation for JS             |
 | Anime.js | https://animejs.com/documentation/ | 
 | TweenJS | http://tweenjs.github.io/tween.js/ | 
 | JSTweener | https://github.com/valera-rozuvan/JSTweener |
@@ -10,7 +11,7 @@
 | Snap.svg | http://snapsvg.io/docs/ |
 | Motio | https://darsa.in/motio/#!documentation/ |
 | Firmin | https://extralogical.net/projects/firmin/ |
-|               Sunday              |
+| Sunday | Machine Learning             |
 | Tensorflow.js | https://www.tensorflow.org/js | 
 | Brain.js | https://github.com/BrainJS/brain.js#Installation-and-Usage | 
 | ml5 | https://learn.ml5js.org/#/tutorials/hello-ml5 | 
